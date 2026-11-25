@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: lodi-ca-95240
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
