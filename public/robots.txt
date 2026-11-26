@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lodi-ca-95240.onrender.com/sitemap.xml
-Sitemap: https://lodi-ca-95240.onrender.com/v2-grading-paving-inc/sitemap.xml
+Sitemap: https://lodi-ca-95240.onrender.com/excavation-contractor-stockton-ca/sitemap.xml
